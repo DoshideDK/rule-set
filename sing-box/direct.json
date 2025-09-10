@@ -1,0 +1,41 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_keyword": [
+        "doushi.de",        
+        "iyingdi",
+        "eleme",
+        "ele.me",
+        "imnks",
+        "bilibili",
+        "chiphell",
+        "linglong521",
+        "baidu",
+        "youdao",
+        "kuaishou",
+        "deepseek",
+        "fnnas",
+        "sixyin",
+        "feross",
+        "kuwo",
+        "kugou",
+        "y.qq",
+        "music.163",
+        "migu",
+        "nmobi",
+        "gateway.kugou",
+        "md.khkj",
+        "interface.music",
+        "app.c.nf.migu",
+        "hhlqilongzhu",
+        "xn--z7x900a"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "time.windows.com"
+      ]
+    }
+  ]
+}

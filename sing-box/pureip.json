@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_keyword": [
+        "claude",
+        "gpt",
+        "genspark",
+        "cursor",
+        "you.com",
+        "anthropic",
+        "openai"
+      ]
+    },
+    {
+      "type": "logical",
+      "mode": "and",
+      "rules": [
+        {
+          "domain_keyword": ["mtga"]
+        },
+        {
+          "invert": true,
+          "domain_keyword": ["download"]
+        }
+      ]
+    },
+    {
+      "type": "logical",
+      "mode": "and",
+      "rules": [
+        {
+          "domain_keyword": ["wizards"]
+        },
+        {
+          "invert": true,
+          "domain_keyword": ["download"]
+        }
+      ]
+    }
+  ]
+}
