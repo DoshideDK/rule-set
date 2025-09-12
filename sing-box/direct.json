@@ -3,7 +3,9 @@
   "rules": [
     {
       "domain_keyword": [
-        "doushi.de",        
+        "oracle0.doushi.de",   
+        "oracle1.doushi.de",
+        "oracle2.doushi.de",
         "iyingdi",
         "eleme",
         "ele.me",
