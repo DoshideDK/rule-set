@@ -3,7 +3,15 @@
   "rules": [
     {
       "domain_keyword": [
-        "download"
+        "download",
+        "stream",
+        "emby",
+        "video",
+        "media",
+        "watch",
+        "movie",
+        "music",
+        "audio"
       ]
     }
   ]
