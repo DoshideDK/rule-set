@@ -3,13 +3,18 @@
   "rules": [
     {
       "domain_keyword": [
+        "cdn",
         "download",
+        "drive",
+        
         "stream",
+        
         "emby",
         "video",
         "media",
         "watch",
         "movie",
+        
         "music",
         "audio"
       ]
