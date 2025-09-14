@@ -9,5 +9,4 @@ DOMAIN-KEYWORD,openai
 AND,((DOMAIN-KEYWORD,mtga),(NOT,((DOMAIN-KEYWORD,download))))
 AND,((DOMAIN-KEYWORD,wizards),(NOT,((DOMAIN-KEYWORD,download))))
 
-
 DOMAIN,18comic.vip
