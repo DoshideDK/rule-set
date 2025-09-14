@@ -13,6 +13,11 @@
       ]
     },
     {
+      "domain": [
+        "18comic.vip"
+      ]
+    },    
+    {
       "type": "logical",
       "mode": "and",
       "rules": [
