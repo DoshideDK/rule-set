@@ -37,15 +37,7 @@ DOMAIN-SUFFIX,time.windows.com
 ###
 
 
-DOMAIN-KEYWORD,api.map.baidu
-DOMAIN-KEYWORD,ps.map.baidu
-DOMAIN-KEYWORD,sv.map.baidu
-DOMAIN-KEYWORD,offnavi.map.baidu
-DOMAIN-KEYWORD,newvector.map.baidu
-DOMAIN-KEYWORD,ulog.imap.baidu
-DOMAIN-KEYWORD,newloc.map.baidu
 DOMAIN-SUFFIX,shifen.com
-DOMAIN-KEYWORD,360
 DOMAIN-SUFFIX,360.cn
 DOMAIN-SUFFIX,360.com
 DOMAIN-SUFFIX,so.cn
@@ -106,15 +98,6 @@ DOMAIN-KEYWORD,weibo
 DOMAIN-KEYWORD,douban
 DOMAIN-KEYWORD,xiaohongshu
 DOMAIN-KEYWORD,douyin
-DOMAIN-KEYWORD,BitTorrent
-DOMAIN-KEYWORD,torrent
-DOMAIN-KEYWORD,peer_id
-DOMAIN-KEYWORD,info_hash
-DOMAIN-KEYWORD,get_peers
-DOMAIN-KEYWORD,find_node
-DOMAIN-KEYWORD,announce_peer
-DOMAIN-KEYWORD,announce.php
-DOMAIN-KEYWORD,passkey
 DOMAIN-KEYWORD,xunlei
 DOMAIN-KEYWORD,sandai
 DOMAIN-KEYWORD,Thunder
